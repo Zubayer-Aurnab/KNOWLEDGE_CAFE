@@ -7,9 +7,7 @@
         "athr_img": "https://i.ibb.co/F67V68L/alireza-pandkhahi-e-J0-T9-A4-Gv-Q-unsplash.jpg",
         "pst_dt": "2023-03-15",
         "rd_tm": 2,
-        "hashtag1": "#novel",
-        "hashtag2": "#gardening",
-        "hashtag3": "#EmilyJohnson"
+        "hashtags": ["#novel", "#gardening", "#EmilyJohnson"]
     },
     {
         "id": "67890",
@@ -19,9 +17,7 @@
         "athr_img": "https://i.ibb.co/6PRgCWC/alireza-pandkhahi-e-Ern-MRapz-MM-unsplash.jpg",
         "pst_dt": "2023-04-22",
         "rd_tm": 3.5,
-        "hashtag1": "#fantasy",
-        "hashtag2": "#forest",
-        "hashtag3": "#MichaelAnderson"
+        "hashtags": ["#fantasy", "#forest", "#MichaelAnderson"]
     },
     {
         "id": "54321",
@@ -31,9 +27,7 @@
         "athr_img": "https://i.ibb.co/Pw46LP8/alireza-pandkhahi-c-O4-Uxs-MEAU-unsplash.jpg",
         "pst_dt": "2023-05-10",
         "rd_tm": 4,
-        "hashtag1": "#classic",
-        "hashtag2": "#historical",
-        "hashtag3": "#SarahWilliams"
+        "hashtags": ["#classic", "#historical", "#SarahWilliams"]
     },
     {
         "id": "98765",
@@ -43,9 +37,7 @@
         "athr_img": "https://i.ibb.co/qkbfN9M/photo-1438761681033-6461ffad8d80.jpg",
         "pst_dt": "2023-06-18",
         "rd_tm": 2.5,
-        "hashtag1": "#mystery",
-        "hashtag2": "#SherlockHolmes",
-        "hashtag3": "#DavidSmith"
+        "hashtags": ["#mystery", "#SherlockHolmes", "#DavidSmith"]
     },
     {
         "id": "24680",
@@ -55,8 +47,6 @@
         "athr_img": "https://i.ibb.co/v3tMByN/pexels-pixabay-220453.jpg",
         "pst_dt": "2023-07-29",
         "rd_tm": 3,
-        "hashtag1": "#romance",
-        "hashtag2": "#JaneAusten",
-        "hashtag3": "#LauraMiller"
+        "hashtags": ["#romance", "#JaneAusten", "#LauraMiller"]
     }
 ]
